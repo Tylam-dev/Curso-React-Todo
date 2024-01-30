@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Curso-React-Todo/static/css/main.ecbf3b6e.css",
+    "main.js": "/Curso-React-Todo/static/js/main.64f1e096.js",
+    "index.html": "/Curso-React-Todo/index.html",
+    "main.ecbf3b6e.css.map": "/Curso-React-Todo/static/css/main.ecbf3b6e.css.map",
+    "main.64f1e096.js.map": "/Curso-React-Todo/static/js/main.64f1e096.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ecbf3b6e.css",
+    "static/js/main.64f1e096.js"
+  ]
+}
